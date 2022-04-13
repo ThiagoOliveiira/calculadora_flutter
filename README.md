@@ -1,6 +1,6 @@
 # calculadora
 
-Projeto para realizacao de prova da faculdade.
+Prova da faculdade.
 
 ## Getting Started
 
